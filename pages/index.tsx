@@ -22,12 +22,12 @@ const Home: NextPage = () => {
           alt="La gatita"
         />
         <div className="my-5">
-        <script
+        {/* <script
           src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
           data-preference-id="108610056-3463bf8e-6c7b-4e4c-8a3b-da1421ccb8a9"
           data-source="button"
           defer
-        />  
+        />   */}
         </div>
       </main>
     </div>
