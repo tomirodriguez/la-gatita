@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className='flex flex-col items-center'>
-        <h1 className="font-bold my-5 text-4xl">LA GATITA QUIERE PLATITA</h1>
+        <h1 className="font-bold my-5 text-xl md:text-4xl">LA GATITA QUIERE PLATITA</h1>
         <Image className="rounded-full" src={'/imgs/gatita.jpeg'} width={300} height={300} alt='La gatita'/>
       </main>
     </div>
